@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movey</string>
+    <string name="title_activity_movie">MovieActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="welcome_to_movey">Welcome To Movey!</string>
+    <string name="utilizing_the_tmdb_api">Utilizing the TMDB API...</string>
+    <string name="millions_of_movies">Millions of movies, TV shows and people to discover. Explore now.</string>
+    <string name="view_trending_movies">View Trending Movies</string>
+    <string name="view_top_rated_movies">View Top Rated Movies</string>
+</resources>
